@@ -2,5 +2,6 @@
 CRUD create, read, update, delete registros de la tabla Materia
 - Version 2
 - Resultado
-- ![image](https://github.com/user-attachments/assets/96f38ab9-1e66-4f16-9ccc-3a03bef412f9)
+- ![image](https://github.com/user-attachments/assets/69227753-05b2-4c22-a421-129e6e90b8e1)
+
 
